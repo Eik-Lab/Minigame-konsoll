@@ -6,3 +6,7 @@ Dette repoet inneholder alt du trenger for å lage en minigame-konsoll. Prosjekt
 * Mikrokontrollere og sensorikk 
 
 Innhold blir lagt ut forløpende!
+
+<p align="left">
+  <img src="CAD/3D_model/3D_model.png" width="800">
+</p>
