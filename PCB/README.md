@@ -8,3 +8,7 @@ Tips før du starter:
 * Last ned KiCad 7.0
 
 Fremgangsmetode for designprosessen i KiCad finner du i "PCB_tutorial.pdf".
+
+<p align="center">
+  <img src="PCB_model.png" width="1000" title="hover text">
+</p>
