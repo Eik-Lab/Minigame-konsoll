@@ -12,10 +12,10 @@
   #define _LCDML_CONTROL_digital_enable_quit     1
   #define _LCDML_CONTROL_digital_enable_lr       1
 
-  #define btnSelect          6
+  #define btnSelect          7
   #define btnUp              3
   #define btnDown            4
-  #define btnQuit            7
+  #define btnQuit            6
   #define btnLeft            5
   #define btnRight           2
   #define btnNone            12
