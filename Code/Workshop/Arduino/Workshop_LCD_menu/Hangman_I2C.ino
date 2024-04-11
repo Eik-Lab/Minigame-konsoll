@@ -1,4 +1,4 @@
-  #define btnSelect          6
+  #define btnSelect          7
   #define btnLeft            5
   #define btnRight           2
 
